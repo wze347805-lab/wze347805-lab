@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wze34785-lab">
+  <a href="https://github.com/wze347805-lab">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Pipelines;Spatial+Network+Optimization;Researching+Trustworthy+AI;MSc+Advanced+Computer+Science" alt="Typing SVG" />
   </a>
 </p>
@@ -74,6 +74,6 @@ I am a **"Builder-Architect"** specializing in bridging the gap between theoreti
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wze34785-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wze34785-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wze347805-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wze347805-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
